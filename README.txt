@@ -1,0 +1,1 @@
+Sample premium card assets. Replace QR placeholder before printing.
